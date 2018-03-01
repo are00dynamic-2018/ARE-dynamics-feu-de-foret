@@ -5,10 +5,10 @@ Sujet d'ARE Dynamic 2018 (Yasmine Amrouni, Erol Yalcin, Gael Khalfa, Ahmed Helmy
 
 # Semaine 2:
 # Objectif:
--Preparer la presentation du sujet(definir les concepts du phenomenes, et les parametres qui entrent en jeu);
--Etudier le phenomene principal ainsi que les parametres principaux qui entrent en jeu; 
--Coder le programme permettant de modeliser ce phenomene;
--Recherche d'informations, ainsi que des experts du domaine;
+- Preparer la presentation du sujet(definir les concepts du phenomenes, et les parametres qui entrent en jeu);
+- Etudier le phenomene principal ainsi que les parametres principaux qui entrent en jeu; 
+- Coder le programme permettant de modeliser ce phenomene;
+- Recherche d'informations, ainsi que des experts du domaine;
 
 # Presentation du sujet:
 
