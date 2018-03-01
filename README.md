@@ -3,8 +3,8 @@ groupe: yasmine, gael, erol, ahmed
 # Modele de propagation de feu de foret
 Sujet d'ARE Dynamic 2018 (Yasmine Amrouni, Erol Yalcin, Gael Khalfa, Ahmed Helmy)
 
-Semaine 2:
-Objectif:
+# Semaine 2:
+# Objectif:
 -Preparer la presentation du sujet(definir les concepts du phenomenes, et les parametres qui entrent en jeu);
 -Etudier le phenomene principal ainsi que les parametres principaux qui entrent en jeu; 
 -Coder le programme permettant de modeliser ce phenomene;
@@ -15,18 +15,48 @@ Objectif:
 Comme vous pouvez remarquer, du au rechauffement climatique, les feu de forets deviennent de plus en plus frequents et de plus en plus puissants. Dans ce contexte, nous avons donc decide de modeliser la propagation de feu de foret.
 
 Problematique: Comment evolue un feu de foret au cours du temps?
-
-Pour commencer, on definit les parametres principaux qui entrent en jeu: 
-- La chaleur necessaire pour la mise a feu d'un arbre.
-- L'effet du vent.
-- Coefficient de propagation du feu sans vent.
+Les differentes hypotheses sont:
+-
+-
+-
 
 # Parametres principaux:
 
-Nous allons prendre prendre un nombre
+En ce qui concerne les feu de forets, il existe des dizaines de parametres qui entrent en jeu comme la hauteur des arbres ou meme l'himidite de ces derniers. Nous avons donc choisi d'utiliser dans notre modelisation les 5 parametres principaux: 
+
+- La chaleur necessaire pour la mise a feu d'un arbre.
+- La vitesse du vent.
+- Le coefficient de propagation du feu sans vent.
+- Le taux d'humidite.
+- La distribution de la vegetation.
+
+#  Etapes pour coder:
+
+Nous allons creer une matrice presentant un foret de 145 arbres avec 15 cellules aleatoirements vides presentant les espaces entre les arbres.
+
+On met ensuite le feu a un arbre aleatoirement et on creet une fonction pour propager le feu dependant de la probabilite de propagation, la direction du vent et sa vitesse. 
+
+Dans les prochaines seances on implemantera le reste des paramtres. 
+
+# Ressources decouvertes:
+- https://arxiv.org/pdf/1402.6187.pdf
+- https://www.fs.fed.us/rm/pubs_int/int_rp115.pdf
+- https://bib.irb.hr/datoteka/278897.Ljiljana_Bodrozic_ceepus2006_2.pdf
+- https://www.sciencedirect.com/science/article/pii/S0307904X06000916
+- http://www.mathom.fr/mathom/sauvageot/Modelisation/Graphes/Feux_foret.pdf
+- https://tel.archives-ouvertes.fr/tel-01404137/document
+- https://openclassrooms.com/forum/sujet/modelisation-du-vent-percolation-feu-de-foret
 
 
+# Accomplis:
+-
+-
+-
 
 
-
-
+# A faire:
+- Terminer de coder le programme.
+- Trouver differentes hypotheses.
+- Terminer de lire les differentes ressources.
+- Mettre en place un protocole experimental.
+- Extraire des donnees reels des differentes ressources utilises.
