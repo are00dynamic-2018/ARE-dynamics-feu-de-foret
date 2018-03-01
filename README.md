@@ -1,6 +1,6 @@
 # ARE-dynamics-feu-de-foret
 groupe: yasmine, gael, erol, ahmed
-# Modele de la propagation de feu de foret
+# Modele de propagation de feu de foret
 Sujet d'ARE Dynamic 2018 (Yasmine Amrouni, Erol Yalcin, Gael Khalfa, Ahmed Helmy)
 
 Semaine 2:
@@ -23,7 +23,7 @@ Pour commencer, on definit les parametres principaux qui entrent en jeu:
 
 # Parametres principaux:
 
-D
+Nous allons prendre prendre un nombre
 
 
 
