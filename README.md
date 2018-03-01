@@ -59,6 +59,6 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 # A faire:
 - Terminer de coder le programme.
 - Trouver differentes hypotheses.
-- Terminer de lire les differentes ressources.
+- Terminer d'etudier les differentes ressources.
 - Mettre en place un protocole experimental.
 - Extraire des donnees reels des differentes ressources utilises.
