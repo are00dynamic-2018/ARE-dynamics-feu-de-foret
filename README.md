@@ -30,6 +30,7 @@ En ce qui concerne les feu de forets, il existe des dizaines de parametres qui e
 - Le coefficient de propagation du feu sans vent.
 - Le taux d'humidite.
 - La distribution de la vegetation.
+- (age de la foret) <- pas encore sure de l'utiliser
 
 #  Etapes pour coder:
 
