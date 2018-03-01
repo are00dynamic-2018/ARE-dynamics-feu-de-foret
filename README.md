@@ -15,6 +15,7 @@ Sujet d'ARE Dynamic 2018 (Yasmine Amrouni, Erol Yalcin, Gael Khalfa, Ahmed Helmy
 Comme vous pouvez remarquer, du au rechauffement climatique, les feu de forets deviennent de plus en plus frequents et de plus en plus puissants. Dans ce contexte, nous avons donc decide de modeliser la propagation de feu de foret.
 
 Problematique: Comment evolue un feu de foret au cours du temps?
+
 Les differentes hypotheses sont:
 -
 -
@@ -49,9 +50,10 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 
 
 # Accomplis:
--
--
--
+- La presentation du sujet.
+- Trouver le phenomene et ses parametres et les etudies.
+- 35 % du codage.
+- Trouver des ressources et etudier a 20 % .
 
 
 # A faire:
