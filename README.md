@@ -97,10 +97,4 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 - Still to be figured out :) Happy weekend.
 
 
-_________________________________________________________________________________________________________________________________
-Date:08/03/2018
-#Accomplis:
-45% de codage
-on a fini les regle de transition de feu avec le code ,il nous reste juste le codage de l'animation
-initiation au codage de premier parametre (sens de vent)
-recherche sur l'influence de taux d'humidité et chaleur
+
