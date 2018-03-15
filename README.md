@@ -71,10 +71,10 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 - Extraire des donnees reels des differentes ressources utilises.
 
 # Accomplis:
- -code de base acompli cependant petit probleme avec l'animation et travail sur un code plus complique.
- -terminer de trouver le protocole experimentale ainsi que les hypotheses.
- -l'etude des differentes ressources a 60%.
- -difficultes d'extraire des equations et les donnees reels pour les differentes ressources.
+ - Code de base acompli cependant petit probleme avec l'animation et travail sur un code plus complique.
+ - Terminer de trouver le protocole experimentale ainsi que les hypotheses.
+ - L'etude des differentes ressources a 60%.
+ - Difficultes d'extraire des equations et les donnees reels pour les differentes ressources.
  
  
 # A faire:
