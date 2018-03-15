@@ -61,7 +61,7 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 
 
 
-# Semaine 2:
+# Semaine 3:
 # Objectif:
 
 - Terminer de coder le programme.
@@ -81,6 +81,21 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 - Terminer le code complique.
 - Extraire des donnees reels.
 - Potentiellement commencer a analyser les resultats obtenu.
+
+
+
+# Semaine 4:
+# Objectif:
+
+- Terminer de coder le programme.
+- Extraite des donnees reels des differentes ressources utilises.
+- Animations qui marche.
+ 
+ 
+# A faire:
+- Commencer a analyser des resultats.
+- Still to be figured out :) Happy weekend.
+
 
 _________________________________________________________________________________________________________________________________
 Date:08/03/2018
