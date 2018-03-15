@@ -59,6 +59,8 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 - Mettre en place un protocole experimental.
 - Extraire des donnees reels des differentes ressources utilises.
 
+
+
 # Semaine 2:
 # Objectif:
 
