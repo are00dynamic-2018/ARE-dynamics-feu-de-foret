@@ -16,11 +16,6 @@ Comme vous pouvez remarquer, du au rechauffement climatique, les feu de forets d
 
 Problematique: Comment evolue un feu de foret au cours du temps?
 
-Les differentes hypotheses sont:
--
--
--
-
 # Parametres principaux:
 
 En ce qui concerne les feu de forets, il existe des dizaines de parametres qui entrent en jeu comme la hauteur des arbres ou meme l'himidite de ces derniers. Nous avons donc choisi d'utiliser dans notre modelisation les 5 parametres principaux: 
@@ -63,6 +58,28 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 - Terminer d'etudier les differentes ressources.
 - Mettre en place un protocole experimental.
 - Extraire des donnees reels des differentes ressources utilises.
+
+# Semaine 2:
+# Objectif:
+
+- Terminer de coder le programme.
+- Trouver differentes hypotheses.
+- Terminer d'etudier les differentes ressources.
+- Mettre en place un protocole experimental.
+- Extraire des donnees reels des differentes ressources utilises.
+
+# Accomplis:
+ -code de base acompli cependant petit probleme avec l'animation et travail sur un code plus complique.
+ -terminer de trouver le protocole experimentale ainsi que les hypotheses.
+ -l'etude des differentes ressources a 60%.
+ -difficultes d'extraire des equations et les donnees reels pour les differentes ressources.
+ 
+ 
+# A faire:
+- Terminer le code complique.
+- Extraire des donnees reels.
+- Potentiellement commencer a analyser les resultats obtenu.
+
 _________________________________________________________________________________________________________________________________
 Date:08/03/2018
 #Accomplis:
