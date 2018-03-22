@@ -97,4 +97,12 @@ Dans les prochaines seances on implemantera le reste des paramtres.
 - Still to be figured out :) Happy weekend.
 
 
+# semaine 5:
+on a regle le probleme de l'animation 
+on a rajoute le programme de cendre et vegetation
+
+#a faire:
+programmer vent
+programmer la temperature
+
 
